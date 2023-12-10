@@ -153,6 +153,36 @@ e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots
 ```latex
 \int_{-\infty}^{\infty} e^{-x^2} \,dx = \sqrt{\pi}
 ```
+---
+
+
+<img src="screenshots/img16.png" width="250">
+
+## SETUP
+
+```latex
+F_n = F_{n-1} + F_{n-2} 
+```
+---
+
+
+<img src="screenshots/img17.png" width="250">
+
+## SETUP
+
+```latex
+\vec{F} = m \vec{a}
+```
+---
+
+
+<img src="screenshots/img18.png" width="250">
+
+## SETUP
+
+```latex
+\sqrt[n]{x}
+```
 
 
 
