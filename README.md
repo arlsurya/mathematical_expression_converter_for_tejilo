@@ -11,6 +11,7 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 ---
 
 <img src="screenshots/img2.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -21,6 +22,7 @@ A = \pi r^2
 
 
 <img src="screenshots/img3.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -30,6 +32,7 @@ c = \sqrt{a^2 + b^2}
 
 
 <img src="screenshots/img4.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -39,6 +42,7 @@ c = \sqrt{a^2 + b^2}
 
 
 <img src="screenshots/img5.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -49,6 +53,7 @@ c = \sqrt{a^2 + b^2}
 
 
 <img src="screenshots/img6.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -58,6 +63,7 @@ e^{i\pi} + 1 = 0
 
 
 <img src="screenshots/img7.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -67,6 +73,7 @@ e^{i\pi} + 1 = 0
 
 
 <img src="screenshots/img8.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -79,6 +86,7 @@ e^{i\pi} + 1 = 0
 
 
 <img src="screenshots/img9.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -88,6 +96,7 @@ e^{i\pi} + 1 = 0
 
 
 <img src="screenshots/img10.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -97,6 +106,7 @@ n! = n \cdot (n-1) \cdot (n-2) \cdot \ldots \cdot 2 \cdot 1
 
 
 <img src="screenshots/img11.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -106,6 +116,7 @@ n! = n \cdot (n-1) \cdot (n-2) \cdot \ldots \cdot 2 \cdot 1
 
 
 <img src="screenshots/img12.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -116,6 +127,7 @@ n! = n \cdot (n-1) \cdot (n-2) \cdot \ldots \cdot 2 \cdot 1
 
 
 <img src="screenshots/img13.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -125,6 +137,7 @@ e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots
 
 
 <img src="screenshots/img14.png" width="250">
+
 ## SETUP
 
 ```latex
@@ -134,6 +147,7 @@ e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \ldots
 
 
 <img src="screenshots/img15.png" width="250">
+
 ## SETUP
 
 ```latex
