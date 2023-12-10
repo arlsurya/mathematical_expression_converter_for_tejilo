@@ -237,7 +237,7 @@ v^2 = v_0^2 + 2a\Delta X
 ```
 ---
 
-## SETUP
+## SETUP Please use this for Vector Notations.
 <img src="screenshots/img23.png" width="250">
 
 
