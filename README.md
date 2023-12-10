@@ -43,7 +43,7 @@ c = \sqrt{a^2 + b^2}
 
 <img src="screenshots/img5.png" width="250">
 
-## SETUP
+## SETUP \, is used to give small amount of space.
 
 ```latex
 \int u \, dv = uv - \int v \, du
@@ -183,6 +183,89 @@ F_n = F_{n-1} + F_{n-2}
 ```latex
 \sqrt[n]{x}
 ```
+
+
+---
+
+
+<img src="screenshots/img19.png" width="250">
+
+## SETUP
+
+```latex
+v^2 = v_0^2 + 2a\Delta X
+```
+
+---
+
+
+<img src="screenshots/img20.png" width="250">
+
+## SETUP
+
+```latex
+\delta X is change in displacement
+```
+---
+
+
+<img src="screenshots/img21.png" width="250">
+
+## SETUP
+
+```latex
+\alpha
+```
+```latex
+\gamma
+```
+```latex
+\beta
+```
+---
+
+
+<img src="screenshots/img22.png" width="250">
+
+## SETUP
+
+```latex
+\lambda
+```
+```latex
+\rho
+```
+---
+
+
+<img src="screenshots/img23.png" width="250">
+
+
+---
+
+
+<img src="screenshots/img24.png" width="250">
+
+## SETUP
+
+```latex
+\tau = r \times F
+```
+---
+
+
+<img src="screenshots/img25.png" width="250">
+
+## SETUP
+
+```latex
+\bar{x}
+```
+
+
+
+
+
 
 
 
